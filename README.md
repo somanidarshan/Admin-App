@@ -10,3 +10,5 @@ Admin App Comprises of :
     3. Adding E-books or Other Informational Source for Reference 
     4. Deleting any Notice
     5. Updating Faculty Members 
+    
+uri : "/App UI and Images/UI 1.png"
