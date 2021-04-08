@@ -11,4 +11,3 @@ Admin App Comprises of :
     4. Deleting any Notice
     5. Updating Faculty Members 
     
-uri : "/App UI and Images/UI 1.png"
