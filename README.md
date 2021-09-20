@@ -9,5 +9,5 @@ Admin App Comprises of :
     2. Adding Faculties of Different Branches.
     3. Adding E-books or Other Informational Source for Reference 
     4. Deleting any Notice
-    5. Updating Faculty Members 
+s 
     
