@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Admin College App</string>
+    <string name="err_email">Enter Valid Email-id</string>
+</resources>
