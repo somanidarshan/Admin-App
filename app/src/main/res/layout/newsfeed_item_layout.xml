@@ -37,7 +37,6 @@
                 android:text="Delete"
                 android:id="@+id/deletenotice"
                 android:layout_marginLeft="-90dp"
-                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
                 />
 
 

@@ -22,7 +22,6 @@
         android:layout_width="424dp"
         android:layout_height="496dp"
         android:background="@drawable/vie_bg"
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHeight_percent=".78"

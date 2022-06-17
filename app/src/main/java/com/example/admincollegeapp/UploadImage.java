@@ -47,9 +47,6 @@ public class UploadImage extends AppCompatActivity {
     private StorageReference storageReference;
     String downloadurl;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -158,14 +155,11 @@ public class UploadImage extends AppCompatActivity {
             }
         });
     }
-
     private void openGallery() {
         Intent pickimage = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
         startActivityForResult(pickimage, REQ);
 
     }
-
-
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);

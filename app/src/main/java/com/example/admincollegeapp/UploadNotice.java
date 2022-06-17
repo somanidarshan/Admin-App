@@ -122,7 +122,6 @@ public class UploadNotice extends AppCompatActivity {
     private void uploaddata() {
         dbRef=reference.child("Notice");
         final String title=noticetitle.getText().toString();
-
         final String uniquekey=dbRef.push().getKey();
         Calendar calendar=Calendar.getInstance();
         SimpleDateFormat currentdate=new SimpleDateFormat("dd-MM-yy");

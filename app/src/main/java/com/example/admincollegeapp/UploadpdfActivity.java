@@ -135,7 +135,7 @@ public class  UploadpdfActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
         if(requestCode==REQ && resultCode==RESULT_OK){
             pdfData=data.getData();
-
+            pdfData.getPath();
             if(pdfData.toString().startsWith("content://")){
                 Cursor cursor=null;
                 try {
