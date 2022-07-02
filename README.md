@@ -9,3 +9,12 @@ Admin Application Features:
     4. Deleting any Notice
  
     
+## Screenshots
+<p align="center">
+  <img src="https://github.com/somanidarshan/Admin-App/blob/main/Admin%20%26%20College%20Application/image1.jpeg"  hspace=10 width="225">
+  <img src="https://github.com/somanidarshan/Admin-App/blob/main/Admin%20%26%20College%20Application/image2.jpeg"  hspace=10 width="225">
+  <img src="https://github.com/somanidarshan/Admin-App/blob/main/Admin%20%26%20College%20Application/image3.jpeg"  hspace=10 width="225">
+  <img src="https://github.com/somanidarshan/Admin-App/blob/main/Admin%20%26%20College%20Application/image4.jpeg"  hspace=10 width="225">
+  <img src="https://github.com/somanidarshan/Admin-App/blob/main/Admin%20%26%20College%20Application/image5.jpeg"  hspace=10 width="225">
+  <img src="https://github.com/somanidarshan/Admin-App/blob/main/Admin%20%26%20College%20Application/image6.jpeg"  hspace=10 width="225">
+</p>
