@@ -37,8 +37,6 @@ public class LoginActivity extends AppCompatActivity {
         awesomeValidation.addValidation(LoginActivity.this, R.id.emailtext, "[a-zA-Z0-9._-]+@spit+\\.+ac.in+", R.string.err_email);
         loginbtn=findViewById(R.id.loginbtn);
         mAuthStateListener = new FirebaseAuth.AuthStateListener() {
-
-
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser mfirebaseUser = mfirebaseauth.getCurrentUser();
