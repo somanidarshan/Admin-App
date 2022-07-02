@@ -1,7 +1,5 @@
 # Admin-App-
-Admin App Source Code for the College App Project. 
-Admin App Deals With all the Activities or Notices that need to be Shared with Students of that College.
-The Access of this App will be in the hands of college Authorities.
+Admin College App is a college management android application which decreases the communication gap between student & the college officials & provide a alternate solution to the students for any important notice of events types stuff.Tech Stack: Android, Java, Firebase, Material Design, Glide, etc.
 
 Admin App Comprises of :
 
